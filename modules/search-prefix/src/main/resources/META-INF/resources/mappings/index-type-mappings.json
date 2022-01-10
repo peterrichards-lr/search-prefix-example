@@ -1,0 +1,9 @@
+{
+	"properties": {
+		"raw_content_en_US": {
+			"type": "text",
+			"store": true,
+			"term_vector": "with_positions_offsets"
+		}
+	}
+}
